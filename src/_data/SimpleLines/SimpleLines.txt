@@ -1,0 +1,24 @@
+"Line 1" - Author 1
+"Line 2" - Author 2
+"Line 3" - Author 3
+"Line 4" - Author 4
+"Line 5" - Author 5
+
+
+
+
+
+Configuration management, Version Management and Infrastructure As Code (Ansible, Chef, Puppet, SaltStack and Terraform).
+
+Provisioning and Deployment
+
+Implementing Security Practices
+
+Troubleshooting - DevOps workloads in the deployment pipeline
+
+Network optimization
+
+Communication and Team Management
+
+
+
